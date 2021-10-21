@@ -1,21 +1,18 @@
 <img src="Png Head Logo.png" width="100" />
 <h1> Hi everyone, I'm Muhammad Rizal Wiyono 👋</h1>
-Experienced Software Engineer with a demonstrated history of working in the design industry. Skilled in Database Development, Front-end Development, Responsive Web Design, Web Design, and Web Development 
+<p> Hi, I am someone who has an enthusiasm in the field of <i>informatics engineering</i>, I like to explore the world of <i>websites</i>, precisely on the <i>Frontend</i>. I've been through a lot of twists and turns by the time I work. I also have a basic <i>UI/UX Design</i>, <i>templates design</i>, <i>flyers</i>, and more. I have the principle that everything will happen when we want to get it done. <br><br>Keep the spirit of friends ⚡ </p>
 
-<img src="bg.jpg" />
+<img src="bg-profile.jpg" />
 
-Happy exploring my friend!
-<!--
-**RizalWiyono/rizalwiyono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> My Contact :</h3>
+
+<div>
+  - <strong>Telegram : <a href="https://t.me/rizalwiyono">@rizalwiyono</a></strong><br>
+  - <strong>Linkedin : <a href="www.linkedin.com/in/muhammad-rizal-wiyono">Muhammad Rizal Wiyono</a></strong><br>
+  - <strong>Email : <a href="muhammadrizalwiyono@gmail.com">muhammadrizalwiyono@gmail.com</a></strong>
+</div>
+<br>
+<p> <i> Happy exploring my friend! </i> 😄 </p>
