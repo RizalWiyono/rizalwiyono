@@ -1,5 +1,10 @@
-### Hi everyone, I'm Muhammad Rizal Wiyono 👋
-Experienced Software Engineer with a demonstrated history of working in the design industry. Skilled in Database Development, Front-end Development, Responsive Web Design, Web Design, and Web Development
+<img src="Png Head Logo.png" width="100" />
+<h1> Hi everyone, I'm Muhammad Rizal Wiyono 👋</h1>
+Experienced Software Engineer with a demonstrated history of working in the design industry. Skilled in Database Development, Front-end Development, Responsive Web Design, Web Design, and Web Development 
+
+<img src="bg.jpg" />
+
+Happy exploring my friend!
 <!--
 **RizalWiyono/rizalwiyono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
