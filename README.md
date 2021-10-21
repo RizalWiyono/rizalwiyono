@@ -11,8 +11,8 @@
 
 <div>
   - <strong>Telegram : <a href="https://t.me/rizalwiyono">@rizalwiyono</a></strong><br>
-  - <strong>Linkedin : <a href="www.linkedin.com/in/muhammad-rizal-wiyono">Muhammad Rizal Wiyono</a></strong><br>
-  - <strong>Email : <a href="muhammadrizalwiyono@gmail.com">muhammadrizalwiyono@gmail.com</a></strong>
+  - <strong>Linkedin : <a href="https://www.linkedin.com/in/muhammad-rizal-wiyono">Muhammad Rizal Wiyono</a></strong><br>
+  - <strong>Email : <a href="https://muhammadrizalwiyono@gmail.com">muhammadrizalwiyono@gmail.com</a></strong>
 </div>
 <br>
 <p> <i> Happy exploring my friend! </i> 😄 </p>
