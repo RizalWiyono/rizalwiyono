@@ -5,6 +5,13 @@
 
 <img src="bg-profile.jpg" />
 
+<hr>
+
+<h3> GitHub Stats :</h3>
+<div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=rizalwiyono&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rizalwiyono&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+</div>
 
 <hr>
 
@@ -16,5 +23,4 @@
   - <strong>Email : <a href="https://muhammadrizalwiyono@gmail.com">muhammadrizalwiyono@gmail.com</a></strong>
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=rizalwiyono&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
 <p> <i> Happy exploring my friend! </i> 😄 </p>
