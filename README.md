@@ -7,13 +7,9 @@
 
 <hr>
 
-<style>
- #user-content-ss {
-  background: red;
-  } 
-</style>
 <h3> GitHub Stats :</h3>
-<div id="ss">
+<div style="    display: flex;
+    justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=rizalwiyono&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rizalwiyono&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
 </div>
