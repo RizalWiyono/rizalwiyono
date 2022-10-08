@@ -16,4 +16,5 @@
   - <strong>Email : <a href="https://muhammadrizalwiyono@gmail.com">muhammadrizalwiyono@gmail.com</a></strong>
 </div>
 <br>
+![](https://github-readme-stats.vercel.app/api?username=rizalwiyono&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 <p> <i> Happy exploring my friend! </i> 😄 </p>
