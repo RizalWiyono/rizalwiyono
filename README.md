@@ -9,8 +9,8 @@
 
 <h3> GitHub Stats :</h3>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=rizalwiyono&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rizalwiyono&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+  <p><img align="left" stye="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=rizalwiyono&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/></p>
+  <p><img align="center" stye="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=rizalwiyono&theme=dark&hide_border=false"/></p>
 </div>
 
 <hr>
