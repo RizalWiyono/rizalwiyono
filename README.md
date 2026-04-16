@@ -1,11 +1,11 @@
 <div align="center">
 
-# Muhammad Rizal Wiyono
+# Rizal Wiyono
 
 **Frontend Engineer · UI/UX Designer · Full-Stack Developer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rizal--space.notion.site-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rizal-space.notion.site/It-s-Rizal-7a0efffadd5f4e9282c4de2a3d5dd9b2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Rizal%20Wiyono-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizal-wiyono)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rizal%20Wiyono-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizalwiyono/)
 [![Telegram](https://img.shields.io/badge/Telegram-@rizalwiyono-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizalwiyono)
 [![Email](https://img.shields.io/badge/Email-muhammadrizalwiyono%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrizalwiyono@gmail.com)
 
